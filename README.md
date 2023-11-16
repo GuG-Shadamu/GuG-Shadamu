@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**GuG-Shadamu/GuG-Shadamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm actively looking for new opportunities in the HFT industry, where I can apply my expertise in financial modeling and low-latency systems.
 
-Here are some ideas to get you started:
+- 🔭 Proficient in C++ and Python, vital for developing efficient trading algorithms and models.
+- 🌱 Experienced in model validation and financial derivative valuation.
+- 👯 Open to collaborations that push the boundaries in quantitative finance.
+- 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/tairangao/) or at <tairan.gao@gmail.com>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Learning
+
+- C++
+  - [CPPSkillBuilder](https://github.com/GuG-Shadamu/CPPSkillBuilder)
+
+- Finance
+  - [Finance Notes](https://github.com/GuG-Shadamu/Finance)
+
+
+
+
+## Practice
+
+- :date: [Algorithm Practice Questions](https://github.com/GuG-Shadamu/Algorithm)
+- :construction: [Back-Tester: Python Event-Driven Backtesting Framework](https://github.com/GuG-Shadamu/back-tester)
