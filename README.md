@@ -17,7 +17,8 @@ I'm actively looking for new opportunities in the HFT industry, where I can appl
 - Finance
   - [Finance Notes](https://github.com/GuG-Shadamu/Finance)
 
-
+- Interviews
+  - [Private Repo - keep track of interview questions and preperations](https://github.com/GuG-Shadamu/job-seeking)
 
 
 ## Practice
