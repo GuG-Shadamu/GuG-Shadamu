@@ -21,7 +21,8 @@ I'm actively looking for new opportunities in the HFT industry, where I can appl
   - [Private Repo - keep track of interview questions and preperations](https://github.com/GuG-Shadamu/job-seeking)
 
 
-## Practice
+## Practice / Projects
 
 - :date: [Algorithm Practice Questions](https://github.com/GuG-Shadamu/Algorithm)
 - :construction: [Back-Tester: Python Event-Driven Backtesting Framework](https://github.com/GuG-Shadamu/back-tester)
+- :white_check_mark: [Matching Engine](https://github.com/GuG-Shadamu/MatchingEngine/tree/main)
