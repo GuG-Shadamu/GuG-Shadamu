@@ -2,7 +2,7 @@
 
 I'm actively looking for new opportunities in the HFT industry, where I can apply my expertise in financial modeling and low-latency systems.
 
-- 🔭 Proficient in C++ and Python, vital for developing efficient trading algorithms and models.
+- 🔭 Proficient in C++ and Python, vital for developing efficient trading tools and algorithms.
 - 🌱 Experienced in model validation and financial derivative valuation.
 - 👯 Open to collaborations that push the boundaries in quantitative finance.
 - 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/tairangao/) or at <tairan.gao@gmail.com>.
