@@ -13,6 +13,7 @@ I'm actively looking for new opportunities in the HFT industry, where I can appl
 
 - C++
   - [CPP Skill Builder](https://github.com/GuG-Shadamu/CPPSkillBuilder)
+  - [ITCH 5.0 Data Processor for VWAP Calculation](https://github.com/GuG-Shadamu/VWAP-From-ITCH5)
 
 - Finance
   - [Finance Notes](https://github.com/GuG-Shadamu/Finance)
