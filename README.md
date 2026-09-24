@@ -1,12 +1,8 @@
-# Hi there 👋
+I'm a quantitative developer working on production trading and valuation systems, with a focus on C++, Python, and financial derivatives.
 
-I'm actively looking for new opportunities in the HFT industry, where I can apply my expertise in financial modeling and low-latency systems.
-
-- 🔭 Proficient in C++ and Python, vital for developing efficient trading tools and algorithms.
-- 🌱 Experienced in model validation and financial derivative valuation.
-- 👯 Open to collaborations that push the boundaries in quantitative finance.
+- 🔭 Building and working with C++ and Python systems for quantitative finance.
+- 🌱 Interested in high-performance C++, derivatives, market microstructure, and trading infrastructure.
 - 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/tairangao/) or at <tairan.gao@gmail.com>.
-
 ---
 
 ## Projects / Practice
